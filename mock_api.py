@@ -36,7 +36,7 @@ mock_data = {
         "activated_timestamp": "2026-02-01 12:52:13",
         "subscription_id": "0eb11c6d-e128-4971-9ce1-d91246ff1207"
     }
-    # 👉 Add more rows similarly if needed
+    # Add more rows similarly if needed
 }
 
 # 🔹 API Endpoint
